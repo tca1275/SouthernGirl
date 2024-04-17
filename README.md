@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, cloud technologies, cybersecurity**
 
-💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/Aingargiola/Learning_coding.git)**
+💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/tca1275/SouthernGirl)**
 
 ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
