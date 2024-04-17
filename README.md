@@ -16,7 +16,7 @@
 
 💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/tca1275/SouthernGirl)**
 
-⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
+⚡ Fun fact **The banjo was invented in the 17th century by West Africans in the Caribbean **
 
  </div>
  
