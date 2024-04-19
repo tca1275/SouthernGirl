@@ -12,7 +12,7 @@
  
  🔭 I’m currently looking to get my Security + certification on **an agile team**
  
- 🌱 I’m currently learning **Python, cloud technologies, cybersecurity**
+ 🌱 I’m currently learning **python, cloud technologies, cybersecurity**
 
 💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/tca1275/SouthernGirl)**
 
