@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for work on **an agile team**
+ 🔭 I’m currently looking to get my Security + Certification on **an agile team**
  
  🌱 I’m currently learning **Python, cloud technologies, cybersecurity**
 
